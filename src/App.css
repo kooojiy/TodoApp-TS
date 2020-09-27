@@ -1,0 +1,71 @@
+.my-todo{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+ul {
+    list-style: none;
+
+  }
+
+form input{
+    font-size: 40px;
+    border-radius:15px;
+
+}
+
+form button{
+    height: 50px;
+}
+
+label input{
+    transform: scale(1.8);
+    
+}
+
+hr{
+    width: 450px;
+    text-align: left;
+    margin-left:0px;
+    height: 5px;
+}
+
+
+
+
+.btn{
+    height:53px;
+    padding-top:1px;
+
+  }
+  .btn button{
+    width: 180px;
+    padding:15px;
+    color:#ffffff;
+    font-size: 15px;
+    line-height: 120%;
+    text-align: center;
+    text-decoration: none;
+    background: #1B73BA;
+    display: block;
+    position:relative;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -webkit-box-shadow:4px 4px 0px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow:4px 4px 0px 0px rgba(0,0,0,0.2);
+    box-shadow:4px 4px 0px 0px rgba(0,0,0,0.2);
+    -webkit-transition: 0.3s ease-out;
+    -moz-transition: 0.3s ease-out;
+    -o-transition: 0.3s ease-out;
+    transition: 0.3s ease-out;
+  }
+  .btn button:hover{
+    margin:4px 0 0 4px ;
+    -webkit-box-shadow:0 0 0px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow:0 0 0px 0px rgba(0,0,0,0.2);
+    box-shadow:0 0 0px 0px rgba(0,0,0,0.2);
+  }
